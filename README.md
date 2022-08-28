@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 - ⚡ Fun fact: I'm funny! 
 
 
-- 📝 I regulary write articles on https://medium.com/@gmayuri1904
+- 📝 I regulary write articles on https://medium.com/gmayuri1904
 
 - 📫 Reach me at : **gmayuri1904@gmail.com**
     
