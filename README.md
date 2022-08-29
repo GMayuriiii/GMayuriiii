@@ -21,7 +21,8 @@ You can click the Preview link to take a look at your changes.
 
 - 📝 I regulary write articles on https://medium.com/gmayuri1904
 
-- 📫 Reach me at : **gmayuri1904@gmail.com**
+- 📫 Find me here : <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="gmayuriiii" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/gmayuriiii?trk=profile-badge">Mayuri Gaikwad</a></div>
+              
     
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GMayuriiii)](https://github.com/DenverCoder1/github-readme-streak-stats)
 </p>
@@ -35,7 +36,7 @@ You can click the Preview link to take a look at your changes.
 <div align="left">
 <a href="https://hackerrank.com/GMayuriiii" target="_blank">
 <img src="https://techpoint.org/wp-content/uploads/2020/03/HackerRank-Logo-300-2.png" alt="HackerRank" width="120" height="30" />
-</a><a href="https://linkedin.com/in/anjali001" target="_blank"><img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" /></a><a href="https://medium.com/@greywasp" target="_blank">
+</a><a href="https://linkedin.com/in/gmayuriiii" target="_blank"><img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" /></a><a href="https://gmayuriiii.medium.com" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>
 <a href="https://kaggle.com/GMayuriiii" target="_blank">
