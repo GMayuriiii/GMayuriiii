@@ -13,23 +13,22 @@ You can click the Preview link to take a look at your changes.
 - 🌱 I’m currently learning Fullstack Data Science.  
   
 
-- ❓ Ask me about anything related to Python,Data Science and Statistics. 
+- ❓ Ask me about anything related to Python, Data Science and Statistics. 
   
 
 - ⚡ Fun fact: I'm funny! 
 
 
-- 📝 I regulary write articles on https://medium.com/gmayuri1904
+- 📝 I regulary write articles on <a href="https://gmayuriiii.medium.com"> Medium </a>
 
-- 📫 Find me here : <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="gmayuriiii" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/gmayuriiii?trk=profile-badge">Mayuri Gaikwad</a></div>
-              
+- 📫 Find me here : gmayuriiii@gmail.com
     
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GMayuriiii)](https://github.com/DenverCoder1/github-readme-streak-stats)
 </p>
 
 
 ## Languages and Tools
-<p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/> </a> <a href="" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tableau.com/" target="_blank"> <img src="https://www.tableau.com/themes/custom/tableau_www/logo.png" alt="Tableau" width="150" height="40"/> <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="Pandas" width="40" height="40"/> </a> <a href="https://numpy.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/768px-NumPy_logo_2020.svg.png" alt="Numpy" width="70" height="40"/> </a> <a href="https://matplotlib.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/1024px-Created_with_Matplotlib-logo.svg.png" alt="Matplotlib" width="40" height="40"/> </a><a href="https://www.mongodb.com/" target="_blank"> <img src="https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress" alt="Matplotlib" width="40" height="40"/> </a><a href="https://www.mysql.com/" target="_blank"> <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="SQL" width="40" height="40"/> </a></p>
+<p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/> </a> <a href="" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <!-- <a href="https://www.tableau.com/" target="_blank"> <img src="https://www.tableau.com/themes/custom/tableau_www/logo.png" alt="Tableau" width="150" height="40"/> --><a href="https://pandas.pydata.org/" target="_blank"> <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="Pandas" width="40" height="40"/> </a> <a href="https://numpy.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/768px-NumPy_logo_2020.svg.png" alt="Numpy" width="70" height="40"/> </a> <a href="https://matplotlib.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/1024px-Created_with_Matplotlib-logo.svg.png" alt="Matplotlib" width="40" height="40"/> </a><a href="https://www.mongodb.com/" target="_blank"> <img src="https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress" alt="Matplotlib" width="40" height="40"/> </a><a href="https://www.mysql.com/" target="_blank"> <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="SQL" width="40" height="40"/> </a></p>
 
 
 ## Connect with me  
