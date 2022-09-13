@@ -19,9 +19,9 @@ You can click the Preview link to take a look at your changes.
 - ⚡ Fun fact: I'm funny! 
 
 
-- 📝 I regulary write articles on <a href="https://gmayuriiii.medium.com"> Medium </a>
+<!--- 📝 I regulary write articles on <a href="https://gmayuriiii.medium.com"> Medium </a>-->
 
-- 📫 Find me here : gmayuriiii@gmail.com
+- 📫 Find me here : gmayuri1904@gmail.com
     
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GMayuriiii)](https://github.com/DenverCoder1/github-readme-streak-stats)
 </p>
@@ -35,19 +35,19 @@ You can click the Preview link to take a look at your changes.
 <div align="left">
 <a href="https://hackerrank.com/GMayuriiii" target="_blank">
 <img src="https://techpoint.org/wp-content/uploads/2020/03/HackerRank-Logo-300-2.png" alt="HackerRank" width="120" height="30" />
-</a><a href="https://linkedin.com/in/gmayuriiii" target="_blank"><img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" /></a><a href="https://gmayuriiii.medium.com" target="_blank">
+</a><a href="https://linkedin.com/in/gmayuriiii" target="_blank"><img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" /></a><!--<a href="https://gmayuriiii.medium.com" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
-</a>
+</a>-->
 <a href="https://kaggle.com/GMayuriiii" target="_blank">
 <img src="https://www.kaggle.com/static/images/logos/kaggle-logo-gray-300.png" alt="Kaggle" width="90" height="30" />
 </a>
 </div>   
-
+<!--
 ## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->
+ BLOG-POST-LIST:START
 - [title](link)
-<!-- BLOG-POST-LIST:END -->  
-
+BLOG-POST-LIST:END  
+-->
 <br/>  
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=GMayuriiii&&style=flat-square" align="center" />
