@@ -10,13 +10,13 @@ You can click the Preview link to take a look at your changes.
 - 🔭 I’m currently working as a Python and Data Science trainer.  
   
 
-- 🌱 I’m currently learning Fullstack Data Science.  
+- 🌱 I’m currently learning Natural Language Processing.  
   
 
 - ❓ Ask me about anything related to Python, Data Science and Statistics. 
   
 
-- ⚡ Fun fact: I'm funny! 
+- ⚡ You'll like me if you enjoy witty takes!
 
 
 <!--- 📝 I regulary write articles on <a href="https://gmayuriiii.medium.com"> Medium </a>-->
