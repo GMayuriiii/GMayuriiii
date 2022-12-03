@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 
 - 📫 Find me here : gmayuri1904@gmail.com
     
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GMayuriiii)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GMayuri1904)](https://github.com/DenverCoder1/github-readme-streak-stats)
 </p>
 
 
